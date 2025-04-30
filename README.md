@@ -1,5 +1,5 @@
 # msfabric-tools
 
-init terraform iac Fabric
+init terraform IAC MS Fabric
 
 1. connection Azure
